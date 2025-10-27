@@ -6,26 +6,32 @@
 ## Tech stack
 
 **Frontend:** Next.js · React · Angular · TypeScript · TailwindCSS · shadcn/ui  
-**Backend:** ASP.NET Core · FastAPI · NestJS · Laravel · C# · Python  
+**Backend:** ASP.NET Core · FastAPI · NestJS · Laravel · C# · Java · C++ · Python  
 **Database:** PostgreSQL · MySQL · SQLite · MongoDB · Entity Framework  
-**Tools:** Git · GitHub · Docker · Postman · Visual Studio · Figma · Power BI  
+**Game Dev:** Unity (2D, 3D & AR) · C#  
+**Tools:** Git · GitHub · Docker · Postman · Visual Studio · Figma · Power BI · Visual Paradigm · Linux CLI  
+
 
 ## Experience highlights
 
-- 🛒 **Fullstack Developer – MonteCristo (2025):**  
-  Built an e-commerce with **Next.js + .NET**, implementing stock, quotes, and SEO optimization.
+🛒 **Fullstack Developer – MonteCristo (2025)**  
+Developed a complete e-commerce platform using **Next.js (TypeScript)** for the frontend and **.NET (C#)** for the backend.  
+Implemented stock management, quotation system, database modeling, hosting setup, and SEO optimization.
 
-- 🎮 **Videogame “SELENE: Back Home” (2024):**  
-  Unity game (C#) – 1st place at UCN Competition. Focused on creative mechanics, design, systems & teamwork. (PC/Mobile)
+🎮 **Videogame “SELENE: Back Home” (2024)**  
+Created a mobile and PC game in **Unity (C#)**, featuring custom mechanics, shop system, data persistence, and dynamic maps.  
+Led design and programming, achieving **1st place** at UCN’s Game Jam competition.
 
-- 🤝 **Teaching Assistant – UCN (2023-2025):**  
-  Supported courses in Software Engineering, Data Structures, OOP & Game Dev (Unity).
+🤝 **Teaching Assistant – UCN (2023–2025)**  
+Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web Development, and Game Development**.  
+Taught practical sessions in **Unity (C#)**, **Java**, **Python**, **TypeScript** and **C++**, focusing on design patterns and problem-solving.
 
-- ⚙️ **HackaDISC 2025:**  
-  Financial behavior predictor using **FastAPI + .NET + ML models** (classification & forecasting). Web system.
+⚙️ **HackaDISC 2025 – Financial Behavior Predictor**  
+Built a predictive financial web system using **Next.js, FastAPI, and .NET**, integrating **machine learning models** for client risk classification and behavior forecasting.  
+Contributed to data modeling, API integration, and dashboard development.
 
+🚀 Always learning, mentoring, and leading projects that merge creativity and engineering to deliver impactful software solutions.
 
-  🚀 Always learning, mentoring, and leading projects that merge creativity and engineering.
 
 
 ## Soft skills
