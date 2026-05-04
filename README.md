@@ -5,7 +5,7 @@
 
 ## Tech stack
 
-**Frontend:** Next.js · React · Angular · TypeScript · TailwindCSS · shadcn/ui  
+**Frontend & UI:** Next.js · React · Angular · TypeScript · TailwindCSS · shadcn/ui  
 ![NextJS](https://img.shields.io/badge/NextJS-brightgreen?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=a&color=%231C1C1C)
 ![React](https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=white&labelColor=a&color=%2300BCFF)
 ![Angular](https://img.shields.io/badge/Angular-brightgreen?style=for-the-badge&logo=angular&logoColor=white&labelColor=a&color=%23FF2B2B)
@@ -14,6 +14,11 @@
 
 **Backend:** .NET Core · FastAPI · Java · C# · C++ · Python  
 ![Java](https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&logoColor=white&labelColor=a&color=%23E06C1B)
+![.NET]()
+![Python]()
+![C#]()
+![C++]()
+
 **Database:** PostgreSQL · MongoDB · MySQL · SQLite · Entity Framework  
 **Game Dev:** Unity (2D, 3D & AR) · C#  
 **Tools:** Git · GitHub · Docker · Postman · Visual Studio · Figma · Power BI · Visual Paradigm · Linux CLI  
