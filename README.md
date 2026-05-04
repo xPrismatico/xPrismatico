@@ -6,7 +6,7 @@
 ## Tech stack
 
 **Frontend:** Next.js · React · Angular · TypeScript · TailwindCSS · shadcn/ui  
-**Backend:** ASP.NET Core · FastAPI · Java · C# · C++ · Python  
+**Backend:** .NET Core · FastAPI · Java · C# · C++ · Python  
 **Database:** PostgreSQL · MongoDB · MySQL · SQLite · Entity Framework  
 **Game Dev:** Unity (2D, 3D & AR) · C#  
 **Tools:** Git · GitHub · Docker · Postman · Visual Studio · Figma · Power BI · Visual Paradigm · Linux CLI  
@@ -23,7 +23,7 @@ Implemented stock management, admin management, quotation system, database model
 Created a Mobile/PC game in **Unity (C#)**, featuring custom creative mechanics, shop system, data persistence, and dynamic maps.  
 Led design and programming, achieving **1st place** at UCN’s competition.
 
-- 🤝 **Teaching Assistant – UCN (2023–2025)**  
+- 🤝 **Teaching Assistant – UCN (2023–2026)**  
 Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web Development, and Game Development**.  
 Taught practical sessions in **Unity**, **C#**, **Java**, **Python**, **TypeScript** and **C++**, focusing on design patterns and problem-solving.
 
