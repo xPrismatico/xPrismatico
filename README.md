@@ -7,10 +7,10 @@
 
 **Frontend:** Next.js · React · Angular · TypeScript · TailwindCSS · shadcn/ui  
 ![NextJS](https://img.shields.io/badge/NextJS-brightgreen?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=a&color=%231C1C1C)
-![React]()
-![Angular]()
-![TypeScript]
-![TailwindCSS]
+![React](https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=white&labelColor=a&color=%2300BCFF)
+![Angular](https://img.shields.io/badge/Angular-brightgreen?style=for-the-badge&logo=angular&logoColor=white&labelColor=a&color=%23FF2B2B)
+![TypeScript](https://img.shields.io/badge/TypeScript-brightgreen?style=for-the-badge&logo=typescript&logoColor=white&labelColor=a&color=%230057F0)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-brightgreen?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=a&color=%230090F0)
 
 **Backend:** .NET Core · FastAPI · Java · C# · C++ · Python  
 ![Java](https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&logoColor=white&labelColor=a&color=%23E06C1B)
