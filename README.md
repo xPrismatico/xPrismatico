@@ -5,14 +5,15 @@
 
 ## Tech stack
 
-###**Frontend & UI:** 
+### Frontend & UI:
+
 ![NextJS](https://img.shields.io/badge/NextJS-brightgreen?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=a&color=%231C1C1C)
 ![React](https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=white&labelColor=a&color=%2300BCFF)
 ![Angular](https://img.shields.io/badge/Angular-brightgreen?style=for-the-badge&logo=angular&logoColor=white&labelColor=a&color=%23FF2B2B)
 ![TypeScript](https://img.shields.io/badge/TypeScript-brightgreen?style=for-the-badge&logo=typescript&logoColor=white&labelColor=a&color=%230057F0)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-brightgreen?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=a&color=%230090F0)
 
-###**Backend:** .NET Core · FastAPI · Java · C# · C++ · Python  
+### Backend:
 ![Java](https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&logoColor=white&labelColor=a&color=%23E06C1B)
 ![.NET](https://img.shields.io/badge/.NET%20Core-brightgreen?style=for-the-badge&logoColor=white&labelColor=a&color=%23632D9C)
 ![Python](https://img.shields.io/badge/Python-brightgreen?style=for-the-badge&logo=python&logoColor=white&labelColor=a&color=%2317408F)
