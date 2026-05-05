@@ -16,7 +16,7 @@
 ![Java](https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&logoColor=white&labelColor=a&color=%23E06C1B)
 ![.NET](https://img.shields.io/badge/.NET%20Core-brightgreen?style=for-the-badge&logoColor=white&labelColor=a&color=%23632D9C)
 ![Python](https://img.shields.io/badge/Python-brightgreen?style=for-the-badge&logo=python&logoColor=white&labelColor=a&color=%2317408F)
-![FastAPI](https://img.shields.io/badge/fastapi-brightgreen?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=a&color=%2317B39C)
+![FastAPI](https://img.shields.io/badge/fastapi-brightgreen?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=a&color=%23108573)
 ![C#](https://img.shields.io/badge/C%23-brightgreen?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=a&color=%2349009C)
 ![C++](https://img.shields.io/badge/C%2B%2B-brightgreen?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=a&color=%23176DB3)
 
