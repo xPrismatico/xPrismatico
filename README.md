@@ -1,6 +1,8 @@
 <div align="center">
+  
 # Samuel Fuentes Ávila
 </div>
+
 ## 🎯 About
 💻 Passionate **Fullstack Developer, Software Engineer and Data Analyst** focused on building scalable web, mobile, and data-driven solutions. 
 4th-year **Computer & Software Engineering student** at Universidad Católica del Norte (Antofagasta, Chile).
@@ -33,7 +35,8 @@
 Git · GitHub · Docker · Postman · Visual Studio · Figma · Power BI · Visual Paradigm · Linux CLI 
 
 #### Game Dev:
-Unity (2D, 3D & AR) · C#  
+![Unity 2D, 2D & AR](https://img.shields.io/badge/unity%202D%2C%203D%20%26%20AR-brightgreen?style=for-the-badge&logo=unity&logoColor=white&labelColor=a&color=%23212121)
+
 
 🚀 Always learning, mentoring, and leading projects that merge creativity and engineering to deliver impactful software solutions.
 
