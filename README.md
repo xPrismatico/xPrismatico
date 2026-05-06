@@ -7,6 +7,8 @@
 💻 Passionate **Fullstack Developer, Software Engineer and Data Analyst** focused on building scalable web, mobile, and data-driven solutions. 
 4th-year **Computer & Software Engineering student** at Universidad Católica del Norte (Antofagasta, Chile).
 
+---
+
 ## 🚀 Tech stack
 
 #### Frontend & UI
@@ -39,36 +41,56 @@ Git · GitHub · Docker · Postman · Visual Studio · Figma · Power BI · Visu
 ![Unity 2D, 2D & AR](https://img.shields.io/badge/unity%202D%2C%203D%20%26%20AR-brightgreen?style=for-the-badge&logo=unity&logoColor=white&labelColor=a&color=%23212121)
 
 
-### 🚀 Always learning, mentoring, and leading projects that merge creativity and engineering to deliver impactful software solutions.
+#### 🚀 Always learning, mentoring, and leading projects that merge creativity and engineering to deliver impactful software solutions.
 
+---
+ 
 ## ⚙️ Experience highlights
 
-- ⚙️ **Fullstack Developer Intern – Purchase System (ByG Ingeniería, 2026)**  
+- ⚙️ **Fullstack Developer & Software Engineer Intern** – Purchase System (ByG Ingeniería, 2026)  
 Engineered a comprehensive procurement and purchase management system using **Next.js (TypeScript)** and **.NET (C#)** with **PostgreSQL**.
 Managed the full software lifecycle: from requirement analysis and database modeling to multi-system integration and cloud deployment.
 
-- 🛒 **Fullstack Developer – Ecommerce (MonteCristo, 2025)**  
+- 🛒 **Fullstack Developer** – Ecommerce (MonteCristo, 2025)  
 Developed a complete e-commerce platform using **Next.js (TypeScript)** and **.NET (C#)**.  
 Implemented stock management, admin management, quotation system, database modeling, hosting setup, and SEO optimization.
 
-- 🎮 **Videogame “SELENE: Back Home” (UCN, 2024)**  
+- 🎮 **Game Developer & UX** – Videogame “SELENE: Back Home”** (UCN, 2024)
 Created a Mobile/PC game in **Unity (C#)**, featuring custom creative mechanics, shop system, data persistence, and dynamic maps.  
-Led design and programming, achieving **1st place** at UCN’s competition.
+Led design, modeling and programming, achieving **1st place** at UCN’s competition.
 
-- 🤝 **Teaching Assistant (UCN, 2023–2026)**  
-Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web Development, Database, and Game Development**.  
-Taught practical sessions in **C#**, **Java**, **Python**, **TypeScript**, **Unity**, **C++**, **SQL** **Software Engineering practices** and **equirements gathering** focusing on design patterns and problem-solving.
+- 🤝 **Teaching Assistant** (UCN, 2023–2026)
+Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web Development, Database, and Game Development**. Taught practical sessions in **C#**, **Java**, **Python**, **TypeScript**, **Unity**, **C++**, **SQL** **Software Engineering practices** and **equirements gathering** focusing on design patterns and problem-solving.
 
-- ⚙️ **HackaDISC 2025 – Financial Behavior Predictor (INSECAP/UCN, 2025)**  
+- 📈 **Fullstack Developer & Data Analyst** – Financial Behavior Predictor (HackaDISC 2025 INSECAP/UCN)  
 Built a predictive financial web system using **Next.js, FastAPI (Python), and .NET (C#)**, integrating **Machine learning models** for client risk classification and behavior forecasting.  
 
+---
 
-## 🤝 Soft skills & Core Competencies
-Teamwork · Leadership · Problem Solving · Adaptability · Continuous Learning · Creativity
-OOP  · Scrum/Agile · Clean Code · UML Modeling · Web scraping · Design Patterns · SOLID principles · Software Engineering · Prototyping & Design · Web/Mobile Development · Machine Learning
+## 🤝 Skills & Core Competencies
+
+| 🧠 Engineering & Architecture | 🛠️ Development Practices | 👥 Soft Skills |
+| :--- | :--- | :--- |
+| **OOP** & Design Patterns | **Scrum / Agile** | **Leadership** & Teamwork |
+| **SOLID** Principles | **Clean Code** | **Problem Solving** |
+| **UML** Modeling | **Web Scraping** | **Adaptability** |
+| **Software Engineering** | **Prototyping & Design** | **Continuous Learning** |
+| **Machine Learning** | **Web & Mobile Dev** | **Creativity** |
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
-  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xPrismatico)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-fuentes-ávila)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srfuentesavila@gmail.com)
+
+</div>
+
+---
+
 ### 🚀 Open to collaboration on innovative projects.
 *Last updated: May 2026*
 </div>
