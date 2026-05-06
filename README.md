@@ -38,7 +38,6 @@
 ![Unity 2D, 2D & AR](https://img.shields.io/badge/unity%202D%2C%203D%20%26%20AR-brightgreen?style=for-the-badge&logo=unity&logoColor=white&labelColor=a&color=%23212121)
 
 #### Tools
-Git · GitHub · Docker · Postman · Visual Studio · Figma · Power BI · Visual Paradigm · Linux CLI 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-brightgreaen?style=for-the-badge&logo=postman&logoColor=white&color=%23F0772E)
@@ -52,7 +51,7 @@ Git · GitHub · Docker · Postman · Visual Studio · Figma · Power BI · Visu
  
 ## ⚙️ Experience highlights
 
-- ⚙️ **Fullstack Developer & Software Engineer Intern** – Purchase System (ByG Ingeniería, 2026)  
+- ⚙️ **Fullstack Developer & Software Engineer Intern** – Purchase System (ByG Ingeniería, 2026) 
 Engineered a comprehensive procurement and purchase management system using **Next.js (TypeScript)** and **.NET (C#)** with **PostgreSQL**.
 Managed the full software lifecycle: from requirement analysis and database modeling to multi-system integration and cloud deployment.
 
@@ -73,6 +72,7 @@ Built a predictive financial web system using **Next.js, FastAPI (Python), and .
 ---
 
 ## 🤝 Skills & Core Competencies
+<div align="center">
 
 | 🧠 Engineering & Architecture | 🛠️ Development Practices | 👥 Soft Skills |
 | :--- | :--- | :--- |
@@ -85,8 +85,6 @@ Built a predictive financial web system using **Next.js, FastAPI (Python), and .
 ---
 
 ## 🌐 Let's Connect
-
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xPrismatico)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-fuentes-ávila)
