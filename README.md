@@ -34,14 +34,19 @@
 ![SQLite](https://img.shields.io/badge/sqlite-brightgreen?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=a&color=%232A83C9)
 ![EntityFramework](https://img.shields.io/badge/EntityFramework-brightgreen?style=for-the-badge&logoColor=white&labelColor=a&color=%23460C8A)
 
-#### Tools
-Git · GitHub · Docker · Postman · Visual Studio · Figma · Power BI · Visual Paradigm · Linux CLI 
-
 #### Game Dev:
 ![Unity 2D, 2D & AR](https://img.shields.io/badge/unity%202D%2C%203D%20%26%20AR-brightgreen?style=for-the-badge&logo=unity&logoColor=white&labelColor=a&color=%23212121)
 
-
-#### 🚀 Always learning, mentoring, and leading projects that merge creativity and engineering to deliver impactful software solutions.
+#### Tools
+Git · GitHub · Docker · Postman · Visual Studio · Figma · Power BI · Visual Paradigm · Linux CLI 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-brightgreaen?style=for-the-badge&logo=postman&logoColor=white&color=%23F0772E)
+![Figma](https://img.shields.io/badge/Figma-brightgreaen?style=for-the-badge&logo=figma&logoColor=white&color=212121)
+![Power BI](https://img.shields.io/badge/Power%20BI-brightgreaen?style=for-the-badge&logo=powerbi&logoColor=white&color=FFB40F)
+![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-brightgreaen?style=for-the-badge&logo=visualparadigm&logoColor=white&color=F0342E)
+![Linux CLI](https://img.shields.io/badge/Linux%20CLI-brightgreaen?style=for-the-badge&logo=linux&logoColor=white&color=383838)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-brightgreaen?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=0087CC)
 
 ---
  
@@ -87,10 +92,9 @@ Built a predictive financial web system using **Next.js, FastAPI (Python), and .
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-fuentes-ávila)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srfuentesavila@gmail.com)
 
-</div>
-
----
+### 💡 Always learning, mentoring, and leading projects that merge creativity and engineering to deliver impactful software solutions.
 
 ### 🚀 Open to collaboration on innovative projects.
+
 *Last updated: May 2026*
 </div>
