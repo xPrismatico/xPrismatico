@@ -34,7 +34,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-brightgreen?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=a&color=%232A83C9)
 ![EntityFramework](https://img.shields.io/badge/EntityFramework-brightgreen?style=for-the-badge&logoColor=white&labelColor=a&color=%23460C8A)
 
-#### Game Dev:
+#### Game Dev
 ![Unity 2D, 2D & AR](https://img.shields.io/badge/unity%202D%2C%203D%20%26%20AR-brightgreen?style=for-the-badge&logo=unity&logoColor=white&labelColor=a&color=%23212121)
 
 #### Tools
@@ -51,22 +51,20 @@
  
 ## ⚙️ Experience highlights
 
-- ⚙️ **Fullstack Developer & Software Engineer Intern** – Purchase System (ByG Ingeniería, 2026) 
-Engineered a comprehensive procurement and purchase management system using **Next.js (TypeScript)** and **.NET (C#)** with **PostgreSQL**.
-Managed the full software lifecycle: from requirement analysis and database modeling to multi-system integration and cloud deployment.
+- ⚙️ **Fullstack Developer & Software Engineer Intern** – Purchase System *(ByG Ingeniería, 2026)*
+Engineered a comprehensive procurement and purchase management system using **Next.js (TypeScript)** and **.NET (C#)** with **PostgreSQL**. Managed the full software lifecycle: from requirement analysis and database modeling to multi-system integration and cloud deployment.
 
-- 🛒 **Fullstack Developer** – Ecommerce (MonteCristo, 2025)  
-Developed a complete e-commerce platform using **Next.js (TypeScript)** and **.NET (C#)**.  
-Implemented stock management, admin management, quotation system, database modeling, hosting setup, and SEO optimization.
+- 🛒 **Fullstack Developer** – Ecommerce *(Comercial MonteCristo, 2025)*  
+Developed a complete e-commerce platform using **Next.js (TypeScript)** and **.NET (C#)**. Implemented stock management, admin management, quotation system, database modeling, hosting setup, and SEO optimization.
 
-- 🎮 **Game Developer & UX** – Videogame “SELENE: Back Home”** (UCN, 2024)
-Created a Mobile/PC game in **Unity (C#)**, featuring custom creative mechanics, shop system, data persistence, and dynamic maps.  
+- 🎮 **Game Developer & UX** – Videogame “SELENE: Back Home”** *(UCN, 2024)*
+Created a 3D Mobile/PC game in **Unity (C#)**, featuring custom creative mechanics, shop system, data persistence, and dynamic maps.  
 Led design, modeling and programming, achieving **1st place** at UCN’s competition.
 
-- 🤝 **Teaching Assistant** (UCN, 2023–2026)
-Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web Development, Database, and Game Development**. Taught practical sessions in **C#**, **Java**, **Python**, **TypeScript**, **Unity**, **C++**, **SQL** **Software Engineering practices** and **equirements gathering** focusing on design patterns and problem-solving.
+- 🤝 **Teaching Assistant** *(UCN, 2023–2026)*
+Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web Development, Database, and Game Development**. Taught practical sessions in **C#**, **Java**, **Python**, **TypeScript**, **Unity**, **C++**, **SQL** **Software Engineering practices** and **requirements gathering** focusing on design patterns and problem-solving.
 
-- 📈 **Fullstack Developer & Data Analyst** – Financial Behavior Predictor (HackaDISC 2025 INSECAP/UCN)  
+- 📈 **Fullstack Developer & Data Analyst** – Financial Behavior Predictor *(HackaDISC 2025 INSECAP/UCN)*
 Built a predictive financial web system using **Next.js, FastAPI (Python), and .NET (C#)**, integrating **Machine learning models** for client risk classification and behavior forecasting.  
 
 ---
