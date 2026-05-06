@@ -14,6 +14,7 @@
 ![NextJS](https://img.shields.io/badge/NextJS-brightgreen?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=a&color=%231C1C1C)
 ![React](https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=white&labelColor=a&color=%2300BCFF)
 ![Angular](https://img.shields.io/badge/Angular-brightgreen?style=for-the-badge&logo=angular&logoColor=white&labelColor=a&color=%23FF2B2B)
+![Ionic](https://img.shields.io/badge/Ionic-brightgreen?style=for-the-badge&logo=ionic&logoColor=white&color=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-brightgreen?style=for-the-badge&logo=typescript&logoColor=white&labelColor=a&color=%230057F0)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-brightgreen?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=a&color=%230090F0)
 
@@ -38,9 +39,9 @@ Git · GitHub · Docker · Postman · Visual Studio · Figma · Power BI · Visu
 ![Unity 2D, 2D & AR](https://img.shields.io/badge/unity%202D%2C%203D%20%26%20AR-brightgreen?style=for-the-badge&logo=unity&logoColor=white&labelColor=a&color=%23212121)
 
 
-🚀 Always learning, mentoring, and leading projects that merge creativity and engineering to deliver impactful software solutions.
+### 🚀 Always learning, mentoring, and leading projects that merge creativity and engineering to deliver impactful software solutions.
 
-## Experience highlights
+## ⚙️ Experience highlights
 
 - 🛒 **Fullstack Developer – MonteCristo (2025)**  
 Developed a complete e-commerce platform using **Next.js (TypeScript)** and **.NET (C#)**.  
@@ -52,11 +53,18 @@ Led design and programming, achieving **1st place** at UCN’s competition.
 
 - 🤝 **Teaching Assistant – UCN (2023–2026)**  
 Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web Development, and Game Development**.  
-Taught practical sessions in **Unity**, **C#**, **Java**, **Python**, **TypeScript** and **C++**, focusing on design patterns and problem-solving.
+Taught practical sessions in **C#**, **Java**, **Python**, **TypeScript**, **Unity**, **C++**, **Software Engineering practices** and **equirements gathering** focusing on design patterns and problem-solving.
 
 - ⚙️ **HackaDISC 2025 – Financial Behavior Predictor**  
 Built a predictive financial web system using **Next.js, FastAPI, and .NET**, integrating **Machine learning models** for client risk classification and behavior forecasting.  
 
 
-## Soft skills
+## 🤝 Soft skills & Core Competencies
 Teamwork · Leadership · Problem Solving · Adaptability · Continuous Learning · Creativity
+OOP  · Scrum/Agile · Clean Code · UML Modeling · Web scraping · Design Patterns · SOLID principles · Software Engineering · Prototyping & Design · Web/Mobile Development · Machine Learning
+
+<div align="center">
+  
+### 🚀 Open to collaboration on innovative projects.
+*Last updated: May 2026*
+</div>
