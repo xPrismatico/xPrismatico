@@ -51,20 +51,20 @@
  
 ## ⚙️ Experience highlights
 
-- ⚙️ **Fullstack Developer & Software Engineer Intern** – Purchase System *(ByG Ingeniería, 2026)*
+• ⚙️ **Fullstack Developer & Software Engineer Intern** – Purchase System *(ByG Ingeniería, 2026)*  
 Engineered a comprehensive procurement and purchase management system using **Next.js (TypeScript)** and **.NET (C#)** with **PostgreSQL**. Managed the full software lifecycle: from requirement analysis and database modeling to multi-system integration and cloud deployment.
 
-- 🛒 **Fullstack Developer** – Ecommerce *(Comercial MonteCristo, 2025)*  
+• 🛒 **Fullstack Developer** – Ecommerce *(Comercial MonteCristo, 2025)*  
 Developed a complete e-commerce platform using **Next.js (TypeScript)** and **.NET (C#)**. Implemented stock management, admin management, quotation system, database modeling, hosting setup, and SEO optimization.
 
-- 🎮 **Game Developer & UX** – Videogame “SELENE: Back Home”** *(UCN, 2024)*
+• 🎮 **Game Developer & UX** – Videogame “SELENE: Back Home”** *(UCN, 2024)*  
 Created a 3D Mobile/PC game in **Unity (C#)**, featuring custom creative mechanics, shop system, data persistence, and dynamic maps.  
 Led design, modeling and programming, achieving **1st place** at UCN’s competition.
 
-- 🤝 **Teaching Assistant** *(UCN, 2023–2026)*
+• 🤝 **Teaching Assistant** *(UCN, 2023–2026)*  
 Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web Development, Database, and Game Development**. Taught practical sessions in **C#**, **Java**, **Python**, **TypeScript**, **Unity**, **C++**, **SQL** **Software Engineering practices** and **requirements gathering** focusing on design patterns and problem-solving.
 
-- 📈 **Fullstack Developer & Data Analyst** – Financial Behavior Predictor *(HackaDISC 2025 INSECAP/UCN)*
+• 📈 **Fullstack Developer & Data Analyst** – Financial Behavior Predictor *(HackaDISC 2025 INSECAP/UCN)*  
 Built a predictive financial web system using **Next.js, FastAPI (Python), and .NET (C#)**, integrating **Machine learning models** for client risk classification and behavior forecasting.  
 
 ---
@@ -80,10 +80,13 @@ Built a predictive financial web system using **Next.js, FastAPI (Python), and .
 | **Software Engineering** | **Prototyping & Design** | **Continuous Learning** |
 | **Machine Learning** | **Web & Mobile Dev** | **Creativity** |
 
+</div>
+
 ---
 
 ## 🌐 Let's Connect
-
+<div align="center">
+  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xPrismatico)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-fuentes-ávila)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srfuentesavila@gmail.com)
