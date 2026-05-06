@@ -57,15 +57,15 @@ Engineered a comprehensive procurement and purchase management system using **Ne
 • 🛒 **Fullstack Developer** – Ecommerce *(Comercial MonteCristo, 2025)*  
 Developed a complete e-commerce platform using **Next.js (TypeScript)** and **.NET (C#)**. Implemented stock management, admin management, quotation system, database modeling, hosting setup, and SEO optimization.
 
-• 🎮 **Game Developer & UX** – Videogame “SELENE: Back Home”** *(UCN, 2024)*  
+• 🎮 **Game Developer & UX** – Videogame “SELENE: Back Home” *(UCN, 2024)*  
 Created a 3D Mobile/PC game in **Unity (C#)**, featuring custom creative mechanics, shop system, data persistence, and dynamic maps.  
 Led design, modeling and programming, achieving **1st place** at UCN’s competition.
 
-• 🤝 **Teaching Assistant** *(UCN, 2023–2026)*  
-Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web Development, Database, and Game Development**. Taught practical sessions in **C#**, **Java**, **Python**, **TypeScript**, **Unity**, **C++**, **SQL** **Software Engineering practices** and **requirements gathering** focusing on design patterns and problem-solving.
-
 • 📈 **Fullstack Developer & Data Analyst** – Financial Behavior Predictor *(HackaDISC 2025 INSECAP/UCN)*  
 Built a predictive financial web system using **Next.js, FastAPI (Python), and .NET (C#)**, integrating **Machine learning models** for client risk classification and behavior forecasting.  
+
+• 🤝 **Teaching Assistant** *(UCN, 2023–2026)*  
+Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web Development, Database, and Game Development**. Taught practical sessions in **C#**, **Java**, **Python**, **TypeScript**, **Unity**, **C++**, **SQL** **Software Engineering practices** and **requirements gathering** focusing on design patterns and problem-solving.
 
 ---
 
