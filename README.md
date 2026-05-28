@@ -5,7 +5,7 @@
 
 ## 🎯 About
 💻 Passionate **Fullstack Developer, Software Engineer and Data Analyst** focused on building scalable web, mobile, and data-driven solutions. 
-4th-year **Computer & Software Engineering student** at Universidad Católica del Norte (Antofagasta, Chile).
+4th-year **Computer & Software Engineering student** at Universidad Católica del Norte (Antofagasta, Chile). Portfolio: https://samuel-fuentes.vercel.app
 
 ---
 
