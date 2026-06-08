@@ -65,7 +65,7 @@ Led design, modeling and programming, achieving **1st place** at UCN’s competi
 Built a predictive financial web system using **Next.js, FastAPI (Python), and .NET (C#)**, integrating **Machine learning models** for client risk classification and behavior forecasting.  
 
 • 🤝 **Teaching Assistant** *(UCN, 2023–2026)*  
-Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web Development, Database, and Game Development**. Taught practical sessions in **C#**, **Java**, **Python**, **TypeScript**, **Unity**, **C++**, **SQL** **Software Engineering practices** and **requirements gathering** focusing on design patterns and problem-solving.
+Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web/Mobile Development, Database, and Game Development**. Taught practical sessions in **C#**, **Java**, **Python**, **TypeScript**, **Unity**, **C++**, **SQL**, **Software Engineering practices** and **requirements gathering** focusing on design patterns and problem-solving.
 
 ---
 
@@ -95,5 +95,5 @@ Supported multiple courses, including **Software Engineering, Data Structures, O
 
 ### 🚀 Open to collaboration on innovative projects.
 
-*Last updated: May 2026*
+*Last updated: Jun 2026*
 </div>
