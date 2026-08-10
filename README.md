@@ -5,7 +5,7 @@
 
 ## 🎯 About
 💻 Passionate **Fullstack Developer, Software Engineer and Data Analyst** focused on building scalable web, mobile, and data-driven solutions. 
-4th-year **Computer & Software Engineering student** at Universidad Católica del Norte (Antofagasta, Chile). Portfolio: https://samuel-fuentes.vercel.app
+4th-year **Computer & Software Engineering student** at Universidad Católica del Norte (Antofagasta, Chile). ![Portfolio](https://samuel-fuentes.vercel.app)
 
 ---
 
@@ -18,6 +18,7 @@
 ![Angular](https://img.shields.io/badge/Angular-brightgreen?style=for-the-badge&logo=angular&logoColor=white&labelColor=a&color=%23FF2B2B)
 ![Ionic](https://img.shields.io/badge/Ionic-brightgreen?style=for-the-badge&logo=ionic&logoColor=white&color=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-brightgreen?style=for-the-badge&logo=typescript&logoColor=white&labelColor=a&color=%230057F0)
+![ApacheECharts](https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=white&labelColor=a&color=%2300BCFF)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-brightgreen?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=a&color=%230090F0)
 
 #### Backend
@@ -32,6 +33,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=a&color=%23216094)
 ![MySQL](https://img.shields.io/badge/mysql-brightgreen?style=for-the-badge&logo=mysql&logoColor=white&labelColor=a&color=%230C6778)
 ![SQLite](https://img.shields.io/badge/sqlite-brightgreen?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=a&color=%232A83C9)
+![SQLModel](https://img.shields.io/badge/sqlite-brightgreen?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=a&color=%232A83C9)
 ![EntityFramework](https://img.shields.io/badge/EntityFramework-brightgreen?style=for-the-badge&logoColor=white&labelColor=a&color=%23460C8A)
 
 #### Game Dev
@@ -51,18 +53,18 @@
  
 ## ⚙️ Experience highlights
 
-• ⚙️ **Fullstack Developer & Software Engineer Intern** – Purchase System *(ByG Ingeniería, 2026)*  
+• ⚙️ **Fullstack Software Engineer Intern** – Purchase System *(ByG Ingeniería, 2026)*  
 Engineered a comprehensive procurement and purchase management system using **Next.js (TypeScript)** and **.NET (C#)** with **PostgreSQL**. Managed the full software lifecycle: from requirement analysis and database modeling to multi-system integration and cloud deployment.
 
-• 🛒 **Fullstack Developer** – Ecommerce *(Refrigeracion y Climatizacion V&V, 2026)*  
+• 🛒 **Fullstack Software Engineer** – Ecommerce & Quotes *(Refrigeracion y Climatizacion V&V, 2026)*  
 Developed a complete e-commerce platform & corporate website using **Next.js (TypeScript)** and **.NET (C#)**. Implemented stock management, admin management, quotation system, database modeling, hosting setup, and SEO optimization. Increased sales, clients, and positioned companies on social media.
 
 • 🎮 **Game Developer & UX** – Videogame “SELENE: Back Home” *(UCN, 2024)*  
 Created a 3D Mobile/PC game in **Unity (C#)**, featuring custom creative mechanics, shop system, data persistence, and dynamic maps.  
 Led design, modeling and programming, achieving **1st place** at UCN’s competition.
 
-• 📈 **Fullstack Developer & Data Analyst** – Financial Behavior Predictor *(HackaDISC 2025 INSECAP/UCN)*  
-Built a predictive financial web system using **Next.js, FastAPI (Python), and .NET (C#)**, integrating **Machine learning models** for client risk classification and behavior forecasting.  
+• 📈 **Fullstack Software Engineer & Tech Lead** – Commercial Intelligent Dashboard *(HackaDISC 2026 INSECAP/UCN)*  
+Built a predictive commercial web system with dashboards using **Next.js and FastAPI (Python)**, integrating **Machine learning models** for customers and ejecutives risk classification and behavior forecasting. Include effective visualizations and excellent UI/UX design. 
 
 • 🤝 **Teaching Assistant** *(UCN, 2023–2026)*  
 Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web/Mobile Development, Database, and Game Development**. Taught practical sessions in **C#**, **Java**, **Python**, **TypeScript**, **Unity**, **C++**, **SQL**, **Software Engineering practices** and **requirements gathering** focusing on design patterns and problem-solving.
@@ -95,5 +97,5 @@ Supported multiple courses, including **Software Engineering, Data Structures, O
 
 ### 🚀 Open to collaboration on innovative projects.
 
-*Last updated: Jun 2026*
+*Last updated: Aug 2026*
 </div>
