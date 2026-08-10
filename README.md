@@ -18,7 +18,6 @@
 ![Angular](https://img.shields.io/badge/Angular-brightgreen?style=for-the-badge&logo=angular&logoColor=white&labelColor=a&color=%23FF2B2B)
 ![Ionic](https://img.shields.io/badge/Ionic-brightgreen?style=for-the-badge&logo=ionic&logoColor=white&color=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-brightgreen?style=for-the-badge&logo=typescript&logoColor=white&labelColor=a&color=%230057F0)
-![ApacheECharts](https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=white&labelColor=a&color=%2300BCFF)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-brightgreen?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=a&color=%230090F0)
 
 #### Backend
@@ -33,7 +32,6 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=a&color=%23216094)
 ![MySQL](https://img.shields.io/badge/mysql-brightgreen?style=for-the-badge&logo=mysql&logoColor=white&labelColor=a&color=%230C6778)
 ![SQLite](https://img.shields.io/badge/sqlite-brightgreen?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=a&color=%232A83C9)
-![SQLModel](https://img.shields.io/badge/sqlite-brightgreen?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=a&color=%232A83C9)
 ![EntityFramework](https://img.shields.io/badge/EntityFramework-brightgreen?style=for-the-badge&logoColor=white&labelColor=a&color=%23460C8A)
 
 #### Game Dev
