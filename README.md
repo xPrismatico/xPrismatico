@@ -1,11 +1,11 @@
 <div align="center">
   
-# Samuel Fuentes Ávila
+# [Samuel Fuentes Ávila](https://samuel-fuentes.vercel.app)
 </div>
 
 ## 🎯 About
 💻 Passionate **Fullstack Developer, Software Engineer and Data Analyst** focused on building scalable web, mobile, and data-driven solutions. 
-4th-year **Computer & Software Engineering student** at Universidad Católica del Norte (Antofagasta, Chile). Portfolio https://samuel-fuentes.vercel.app
+4th-year **Computer & Software Engineering student** at Universidad Católica del Norte (Antofagasta, Chile). [🎯View Portfolio](https://samuel-fuentes.vercel.app)
 
 ---
 
@@ -53,21 +53,21 @@
  
 ## ⚙️ Experience highlights
 
-• ⚙️ **Fullstack Software Engineer Intern** – Purchase System *(ByG Ingeniería, 2026)*  
-Engineered a comprehensive procurement and purchase management system using **Next.js (TypeScript)** and **.NET (C#)** with **PostgreSQL**. Managed the full software lifecycle: from requirement analysis and database modeling to multi-system integration and cloud deployment.
+#### ⚙️ **Fullstack Software Engineer Intern** – Purchase System *(ByG Ingeniería, 2026)*  
+###### Engineered a comprehensive procurement and purchase management system using **Next.js (TypeScript)** and **.NET (C#)** with **PostgreSQL**. Managed the full software lifecycle: from requirement analysis and database modeling to multi-system integration and cloud deployment.
 
-• 🛒 **Fullstack Software Engineer** – Ecommerce & Quotes *(Refrigeracion y Climatizacion V&V, 2026)*  
-Developed a complete e-commerce platform & corporate website using **Next.js (TypeScript)** and **.NET (C#)**. Implemented stock management, admin management, quotation system, database modeling, hosting setup, and SEO optimization. Increased sales, clients, and positioned companies on social media.
+#### 🛒 **Fullstack Software Engineer** – Ecommerce & Quotes *(Refrigeracion y Climatizacion V&V, 2026)*  
+###### Developed a complete e-commerce platform & corporate website using **Next.js (TypeScript)** and **.NET (C#)**. Implemented stock management, admin management, quotation system, database modeling, hosting setup, and SEO optimization. Increased sales, clients, and positioned companies on social media.
 
-• 🎮 **Game Developer & UX** – Videogame “SELENE: Back Home” *(UCN, 2024)*  
-Created a 3D Mobile/PC game in **Unity (C#)**, featuring custom creative mechanics, shop system, data persistence, and dynamic maps.  
+#### 🎮 **Game Developer & UX** – Videogame “SELENE: Back Home” *(UCN, 2024)*  
+###### Created a 3D Mobile/PC game in **Unity (C#)**, featuring custom creative mechanics, shop system, data persistence, and dynamic maps.  
 Led design, modeling and programming, achieving **1st place** at UCN’s competition.
 
-• 📈 **Fullstack Software Engineer & Tech Lead** – Commercial Intelligent Dashboard *(HackaDISC 2026 INSECAP/UCN)*  
-Built a predictive commercial web system with dashboards using **Next.js and FastAPI (Python)**, integrating **Machine learning models** for customers and ejecutives risk classification and behavior forecasting. Include effective visualizations and excellent UI/UX design. 
+#### 📈 **Fullstack Software Engineer & Tech Lead** – Commercial Intelligent Dashboard *(HackaDISC 2026 INSECAP/UCN)*  
+###### Built a predictive commercial web system with dashboards using **Next.js and FastAPI (Python)**, integrating **Machine learning models** for customers and ejecutives risk classification and behavior forecasting. Include effective visualizations and excellent UI/UX design. 
 
-• 🤝 **Teaching Assistant** *(UCN, 2023–2026)*  
-Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web/Mobile Development, Database, and Game Development**. Taught practical sessions in **C#**, **Java**, **Python**, **TypeScript**, **Unity**, **C++**, **SQL**, **Software Engineering practices** and **requirements gathering** focusing on design patterns and problem-solving.
+#### 🤝 **Teaching Assistant** *(UCN, 2023–2026)*  
+###### Supported multiple courses, including **Software Engineering, Data Structures, OOP, Web/Mobile Development, Database, and Game Development**. Taught practical sessions in **C#**, **Java**, **Python**, **TypeScript**, **Unity**, **C++**, **SQL**, **Software Engineering practices** and **requirements gathering** focusing on design patterns and problem-solving.
 
 ---
 
