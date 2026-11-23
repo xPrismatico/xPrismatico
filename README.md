@@ -67,10 +67,10 @@
 ## ⚙️ Experience highlights
 
 #### 🚀 **Tech Lead & Software Engineer** – FLARE: Microgravity Fire Safety AI *(NASA Space Apps Challenge, Nov 2026)*
-Led the architecture, frontend, and AI/ML integration of **FLARE**, an interactive web platform unifying **20+ NASA PSI investigations & 100+ experimental runs** in **Supabase** with **probabilistic ML (GPR)** and a **zero-hallucination Hybrid RAG Copilot** (**Next.js, TypeScript, FastAPI, Vercel**). Achieved **4th Place** & **Best Innovation + Research Mention**.
+###### Led the architecture, frontend, and AI/ML integration of **FLARE**, an interactive web platform unifying **20+ NASA PSI investigations & 100+ experimental runs** in **Supabase** with **probabilistic ML (GPR)** and a **zero-hallucination Hybrid RAG Copilot** (**Next.js, TypeScript, FastAPI, Vercel**). Achieved **4th Place** & **Best Innovation + Research Mention**.
 
 #### 🚆 **Fullstack Software Engineer** – Railway Link Inspection App *(FCAB, May–Nov 2026)*
-Developed offline-capable web and mobile applications (**Next.js, .NET**) to automate critical railway inspection workflows, reducing bottlenecks and improving data reliability for track maintenance planning and operational safety.
+###### Developed offline-capable web and mobile applications (**Next.js, .NET**) to automate critical railway inspection workflows, reducing bottlenecks and improving data reliability for track maintenance planning and operational safety.
 
 #### ⚙️ **Fullstack Software Engineer Intern** – Purchase System *(ByG Ingeniería, 2026)*  
 ###### Engineered a comprehensive procurement and purchase management system using **Next.js (TypeScript)** and **.NET (C#)** with **PostgreSQL**. Managed the full software lifecycle: from requirement analysis and database modeling to multi-system integration and cloud deployment.
