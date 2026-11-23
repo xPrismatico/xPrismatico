@@ -66,6 +66,12 @@
  
 ## ⚙️ Experience highlights
 
+#### 🚀 **Tech Lead & Software Engineer** – FLARE: Microgravity Fire Safety AI *(NASA Space Apps Challenge, Nov 2026)*
+Led the architecture, frontend, and AI/ML integration of **FLARE**, an interactive web platform unifying **20+ NASA PSI investigations & 100+ experimental runs** in **Supabase** with **probabilistic ML (GPR)** and a **zero-hallucination Hybrid RAG Copilot** (**Next.js, TypeScript, FastAPI, Vercel**). Achieved **4th Place** & **Best Innovation + Research Mention**.
+
+#### 🚆 **Fullstack Software Engineer** – Railway Link Inspection App *(FCAB, May–Nov 2026)*
+Developed offline-capable web and mobile applications (**Next.js, .NET**) to automate critical railway inspection workflows, reducing bottlenecks and improving data reliability for track maintenance planning and operational safety.
+
 #### ⚙️ **Fullstack Software Engineer Intern** – Purchase System *(ByG Ingeniería, 2026)*  
 ###### Engineered a comprehensive procurement and purchase management system using **Next.js (TypeScript)** and **.NET (C#)** with **PostgreSQL**. Managed the full software lifecycle: from requirement analysis and database modeling to multi-system integration and cloud deployment.
 
@@ -86,13 +92,13 @@
 ## 🤝 Skills & Core Competencies
 <div align="center">
 
-| 🧠 Engineering & Architecture | 🛠️ Development Practices | 👥 Soft Skills |
-| :--- | :--- | :--- |
-| **OOP** & Design Patterns | **Scrum / Agile** | **Leadership** & Teamwork |
-| **SOLID** Principles | **Clean Code** | **Problem Solving** |
-| **UML** Modeling | **Web Scraping** | **Adaptability** |
-| **Software Engineering** | **Prototyping & Design** | **Continuous Learning** |
-| **Machine Learning** | **Web & Mobile Dev** | **Creativity** |
+| 🧠 Engineering & Architecture | 🤖 Data, AI & Cloud | 🛠️ Dev Practices | 👥 Soft Skills |
+| :--- | :--- | :--- | :--- |
+| **Clean Architecture** & **SOLID** | **Machine Learning** & **Webscrap** | **Scrum / Agile** & Git | **Adaptability**
+| **OOP** & Design Patterns | **Hybrid RAG** & AI Governance | **Leadership** & Teamwork | **Problem Solving** |
+| **Software Engineering** | **Data Visualization** (Tufte/BI)  | **UI/UX** & Accessibility | **Creativity** |
+| **UML Modeling & Requirements** | **Microsoft 365**, DNS, VM, Deploy | **Tech Lead** & Mentoring | **Continuous Learning** |
+
 
 </div>
 
@@ -109,5 +115,5 @@
 
 ### 🚀 Open to collaboration on innovative projects.
 
-*Last updated: Oct 2026*
+*Last updated: Dic 2026*
 </div>
