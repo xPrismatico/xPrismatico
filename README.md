@@ -4,8 +4,8 @@
 </div>
 
 ## 🎯 About
-💻 Passionate **Fullstack Developer, Software Engineer and Data Analyst** focused on building scalable web, mobile, and data-driven solutions. 
-5th-year **Computer & Software Engineering student** at Universidad Católica del Norte (Antofagasta, Chile). [🎯View Portfolio](https://samuel-fuentes.vercel.app)
+💻 **Fullstack Software Engineer, Data Analyst & ML/AI** focused on building scalable web/mobile apps, intelligent systems, automations and data-driven solutions. 
+5th-year **Computer & Software Engineering** student at Universidad Católica del Norte (Antofagasta, Chile). [🎯View Portfolio](https://samuel-fuentes.vercel.app)
 
 ---
 
@@ -23,14 +23,16 @@
 ![Ionic](https://img.shields.io/badge/Ionic-brightgreen?style=for-the-badge&logo=ionic&logoColor=white&color=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-brightgreen?style=for-the-badge&logo=typescript&logoColor=white&labelColor=a&color=%230057F0)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-brightgreen?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=a&color=%230090F0)
+![Apache ECharts](https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white)
 
 <br/>
 
-### Database
+### Database & Data
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=a&color=%23216094)
 ![MySQL](https://img.shields.io/badge/mysql-brightgreen?style=for-the-badge&logo=mysql&logoColor=white&labelColor=a&color=%230C6778)
 ![SQLite](https://img.shields.io/badge/sqlite-brightgreen?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=a&color=%232A83C9)
+![Power BI](https://img.shields.io/badge/Power%20BI-brightgreaen?style=for-the-badge&logo=powerbi&logoColor=white&color=FFB40F)
 
   </td>
     
@@ -38,10 +40,10 @@
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&logoColor=white&labelColor=a&color=%23E06C1B)
 ![.NET](https://img.shields.io/badge/.NET%20Core-brightgreen?style=for-the-badge&logoColor=white&labelColor=a&color=%23632D9C)
 ![Python](https://img.shields.io/badge/Python-brightgreen?style=for-the-badge&logo=python&logoColor=white&labelColor=a&color=%2317408F)
 ![FastAPI](https://img.shields.io/badge/fastapi-brightgreen?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=a&color=%23108573)
+![Java](https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&logoColor=white&labelColor=a&color=%23E06C1B)
 ![C#](https://img.shields.io/badge/C%23-brightgreen?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=a&color=%2349009C)
 ![C++](https://img.shields.io/badge/C%2B%2B-brightgreen?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=a&color=%23176DB3)
 
@@ -54,8 +56,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-brightgreaen?style=for-the-badge&logo=postman&logoColor=white&color=%23F0772E)
 ![Figma](https://img.shields.io/badge/Figma-brightgreaen?style=for-the-badge&logo=figma&logoColor=white&color=212121)
-![Power BI](https://img.shields.io/badge/Power%20BI-brightgreaen?style=for-the-badge&logo=powerbi&logoColor=white&color=FFB40F)
-![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-brightgreaen?style=for-the-badge&logo=visualparadigm&logoColor=white&color=F0342E)
 ![Linux CLI](https://img.shields.io/badge/Linux%20CLI-brightgreaen?style=for-the-badge&logo=linux&logoColor=white&color=383838)
 
   </td>
